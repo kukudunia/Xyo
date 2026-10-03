@@ -1,0 +1,12 @@
+# dependencies
+node_modules/
+# next.js
+.next/
+out/
+# env (jangan commit rahasia)
+.env
+.env.local
+.env*.local
+# logs & os
+*.log
+.DS_Store
